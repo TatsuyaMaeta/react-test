@@ -7,7 +7,7 @@ function App() {
             <header className="App-header">
                 <img src={logo} className="App-logo" alt="logo" />
                 <p>
-                    エディット <code>src/App.js</code> and save to reload.
+                    エディット <code>ソース/App.js</code> アンド セーブ トゥ リロード。
                 </p>
                 <a
                     className="App-link"
@@ -15,7 +15,7 @@ function App() {
                     target="_blank"
                     rel="noopener noreferrer"
                 >
-                    Gs ACADEMY
+                    G's ACADEMY
                 </a>
             </header>
         </div>
